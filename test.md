@@ -37,7 +37,7 @@
 * url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity1
 * tags: easy
 * imageUrl: /static/tutorials/galga.png
-* next: map-B-1, map-B-2
+* next: map-B-1, map-B-2, map B-3
 
 ### map-B-1
 
@@ -58,6 +58,15 @@
 * tags: easy
 * imageUrl: /static/tutorials/lander.png
 * next: map-D
+
+### map-B-3
+
+* name: Nonlinear B-2
+* type: tutorial
+* description: Create a main character that shoots some projectiles
+* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity1
+* tags: easy
+* imageUrl: /static/tutorials/lander.png
 
 ### map-C
 
