@@ -37,7 +37,7 @@
 * url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity1
 * tags: easy
 * imageUrl: /static/tutorials/galga.png
-* next: map-B-1, map-B-2, map B-3
+* next: map-B-1, map-B-2, map-B-3
 
 ### map-B-1
 
